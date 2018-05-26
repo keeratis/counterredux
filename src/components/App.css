@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  font-family: "Permanent Marker", cursive;
+  margin-top: 50px;
+  position: fixed;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+.counter {
+  margin-top: 2%;
+}
+button {
+  width: 200px;
+  height: 80px;
+  margin: 0 auto;
+}
+.number {
+  font-size: 80px;
+  color: red;
+}
+.btnText {
+  font-size: 40px;
+}
